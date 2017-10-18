@@ -13,7 +13,7 @@
 <body>
 	<div class="container">
 		<div>
-			<h1 class="text-center">Dashbord</h1>
+			<h1 class="text-center">Dashboard</h1>
 		</div>
 		<div>
 			<form class="form-group" action="inside.php" method="POST">
