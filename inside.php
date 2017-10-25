@@ -38,7 +38,7 @@
         if ($result->num_rows > 0) 
         {
         	echo "<div class=\"container\">";
-        	echo "<h2>INPUT:	".$userid."</h2>";
+        	// echo "<h2>INPUT:	".$userid."</h2>";
             while($row = $result->fetch_assoc()) 
             {
             	
